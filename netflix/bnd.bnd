@@ -1,0 +1,14 @@
+-include: https://dl.maketechnology.io/framework/rls/0.1.6/equoapp.bnd
+Bundle-Version: 0.1.1
+Private-Package: netflix
+# Application Name
+appName=Netflix
+# The organization Name
+owner=Make
+# Application background color
+bgColor=#FF0000
+# Main Application logo
+logo=resources/images/logo.png
+# Username and password to connect to the Equo Platform. For example for analytics
+equoUsername='YWRtaW4='
+equoPassword=bHVzaXRhbm8yMDE4

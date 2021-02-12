@@ -1,0 +1,12 @@
+bin/
+generated/
+/.metadata/
+/.recommenders/
+/.gradle/*
+!/.gradle/wrapper
+/cnf/cache/
+/cnf/release/
+.rt/
+_rt/
+.settings/
+*/littleproxy*
